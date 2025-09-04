@@ -1,4 +1,4 @@
-package Tasks;
+package SeleniumTasks;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
